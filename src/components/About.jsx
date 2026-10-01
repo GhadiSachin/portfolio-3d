@@ -47,9 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a Full Stack Developer, a Machine Learning and Data Science enthusiast and above all - an aspiring SDE. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        "I'm a Senior Technical Lead and Solution Architect with over 14 years of experience building scalable, cloud-native enterprise applications. I specialize in .NET, React, Azure, and distributed systems, with a strong focus on integrating AI and GenAI solutions. I collaborate closely with stakeholders to design robust architectures and deliver efficient, user-friendly software that solves complex business problems. Let's work together to build systems that matter!"
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
