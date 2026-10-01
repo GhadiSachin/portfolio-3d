@@ -110,7 +110,7 @@ const experiences = [
   {
     title: "Senior Technical Lead",
     company_name: "Precision Resource Group",
-    icon: starbucks,
+    icon: prg_precision_resource_group,
     iconBg: "#383E56",
     date: "Mar 2026 - Jun 2026",
     points: [
@@ -136,7 +136,7 @@ const experiences = [
   {
     title: "Technical Lead",
     company_name: "Encora",
-    icon: meta,
+    icon: VGROUP_INC,
     iconBg: "#383E56",
     date: "Jul 2022 - Feb 2023",
     points: [
@@ -148,7 +148,7 @@ const experiences = [
   {
     title: "Senior Software Engineer",
     company_name: "LTIMindtree",
-    icon: starbucks,
+    icon: LTIMINDTREE,
     iconBg: "#E6DEDD",
     date: "Aug 2019 - Jul 2022",
     points: [
@@ -160,7 +160,7 @@ const experiences = [
   {
     title: "Senior Software Engineer",
     company_name: "CoreCard Software",
-    icon: tesla,
+    icon: corecard,
     iconBg: "#383E56",
     date: "Feb 2018 - Aug 2019",
     points: [
