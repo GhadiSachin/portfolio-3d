@@ -64,7 +64,7 @@ export {
   s2infotech,
   tcs,
   vgroup,
-  wordline
+  wordline,
   carrent,
   jobit,
   tripguide,
