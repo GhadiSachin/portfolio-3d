@@ -28,7 +28,7 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm install # Changed from npm ci to prevent lockfile mismatch errors
+        run: npm install --legacy-peer-deps # Changed from npm ci to prevent lockfile mismatch errors
 
       - name: Build project
         run: npm run build
