@@ -24,12 +24,12 @@ import {
   vgroup,
   wordline,
   prg,
-  jobit,
-  tripguide,
+  emplymentlaw,
+  uk,
   threejs,
 } from "../assets";
 
-import carrent from '../assets/carrent.gif'
+import ati from '../assets/ati.gif'
 
 export const navLinks = [
   {
@@ -197,7 +197,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: ati,
     source_code_link: "https://github.com/GhadiSachin", 
   },
   {
@@ -218,7 +218,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: emplymentlaw,
     source_code_link: "https://github.com/GhadiSachin",
   },
   {
@@ -239,7 +239,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: uk,
     source_code_link: "https://github.com/GhadiSachin", 
   },
 ];

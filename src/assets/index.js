@@ -32,9 +32,9 @@ import wordline from "./company/wordline.png";
 import prg from "./company/prg.png";
 
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import ati from "./ati.png";
+import emplymentlaw from "./emplymentlaw.png";
+import uk from "./uk.png";
 
 export {
   logo,
@@ -67,7 +67,7 @@ export {
   vgroup,
   wordline,
   prg,
-  carrent,
-  jobit,
-  tripguide,
+  ati,
+  emplymentlaw,
+  uk,
 };
