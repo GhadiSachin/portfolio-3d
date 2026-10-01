@@ -23,6 +23,7 @@ import {
   tcs,
   vgroup,
   wordline,
+  prg,
   jobit,
   tripguide,
   threejs,
@@ -128,7 +129,7 @@ const experiences = [
   {
     title: "Senior Technical Lead",
     company_name: "V Group INC",
-    icon: tesla,
+    icon: vgroup,
     iconBg: "#E6DEDD",
     date: "Mar 2023 - Sep 2025",
     points: [
@@ -141,7 +142,7 @@ const experiences = [
   {
     title: "Technical Lead",
     company_name: "Encora",
-    icon: VGROUP_INC,
+    icon: encora,
     iconBg: "#383E56",
     date: "Jul 2022 - Feb 2023",
     points: [
@@ -153,7 +154,7 @@ const experiences = [
   {
     title: "Senior Software Engineer",
     company_name: "LTIMindtree",
-    icon: LTIMINDTREE,
+    icon: ltimindtree,
     iconBg: "#E6DEDD",
     date: "Aug 2019 - Jul 2022",
     points: [
