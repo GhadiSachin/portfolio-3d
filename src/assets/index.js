@@ -29,6 +29,7 @@ import s2infotech from "./company/s2infotech.png";
 import tcs from "./company/tcs.png";
 import vgroup from "./company/vgroup.png";
 import wordline from "./company/wordline.png";
+import prg from "./company/prg.png";
 
 
 import carrent from "./carrent.png";
@@ -65,6 +66,7 @@ export {
   tcs,
   vgroup,
   wordline,
+  prg,
   carrent,
   jobit,
   tripguide,
