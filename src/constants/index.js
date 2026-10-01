@@ -29,7 +29,7 @@ import {
   threejs,
 } from "../assets";
 
-import ati from '../assets/ati.gif'
+import ati from '../assets/ati.png'
 
 export const navLinks = [
   {
