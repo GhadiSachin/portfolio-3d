@@ -110,7 +110,7 @@ const experiences = [
   {
     title: "Senior Technical Lead",
     company_name: "Precision Resource Group",
-    icon: prg_precision_resource_group,
+    icon: prg,
     iconBg: "#383E56",
     date: "Mar 2026 - Jun 2026",
     points: [
