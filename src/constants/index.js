@@ -42,222 +42,200 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Technical Architect[cite: 1]",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Senior Technical Lead[cite: 1]",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Backend Developer[cite: 1]",
     icon: backend,
   },
   {
-    title: "Flutter Developer",
+    title: "Cloud & Data Engineer[cite: 1]",
     icon: creator,
   },
 ];
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
+    name: ".NET 8[cite: 1]",
+    icon: backend, 
   },
   {
-    name: "CSS 3",
-    icon: css,
+    name: "C#[cite: 1]",
+    icon: backend,
   },
   {
-    name: "JavaScript",
+    name: "Microsoft Azure[cite: 1]",
+    icon: docker,
+  },
+  {
+    name: "JavaScript[cite: 2]",
     icon: javascript,
   },
   {
-    name: "TypeScript",
+    name: "TypeScript[cite: 1]",
     icon: typescript,
   },
   {
-    name: "React JS",
+    name: "React JS[cite: 1]",
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
+    name: "Redux[cite: 1]",
     icon: redux,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "Angular[cite: 1]",
+    icon: web,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "SQL Server[cite: 1]",
+    icon: backend,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "RabbitMQ[cite: 1]",
+    icon: backend,
   },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "flutter",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
+    name: "Blazor[cite: 1]",
+    icon: web,
   },
 ];
 
 const experiences = [
   {
-    title: "Full Stack Developer",
-    company_name: "Tata Consultancy Services",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "July 2022 - Present",
-    points: [
-      "Working as a Full Stack Developer on a Client Project in the IT-Sustainibility Domain",
-      "Worked on 5+ internal applications which are being used widely inside the organisation.",
-      "Worked on over 17+ Customer Pocs using Next.JS, React.Js, Flutter, React-Native, Generative AI, Node.JS, Python, AWS and related Full-Stack Technologies.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Project Intern",
-    company_name: "Tata Consultancy Services",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Mar 2022 - Jun 2023",
-    points: [
-      "Developing modern UIs with no-code and low-code tools.",
-      "Worked as a Full-Stack-Developer in an internal application with over 500k+ users in React.js.",
-      "Implementing responsive designs for both web and mobile and ensuring cross-browser and cros-platform compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full Stack Developer Intern",
-    company_name: "Teamcognito",
+    title: "Senior Technical Lead[cite: 1]",
+    company_name: "Precision Resource Group[cite: 1]",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "Jul 2020 - Sep 2020",
+    date: "Mar 2026 - Jun 2026[cite: 1]",
     points: [
-      "Developing and maintaining web applications using React.js, React Native and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Architected an event-driven messaging pipeline using C#, .NET 8 and RabbitMQ, reducing asynchronous data-processing delays by 40%.[cite: 1]",
+      "Designed an Ocelot API Gateway architecture with centralized authentication and dynamic routing for APIs serving 500K+ monthly requests with 99.9% uptime.[cite: 1]",
+      "Led service, database and API modernization through SQL optimization, indexing and service-layer refactoring, improving platform response times by 35%.[cite: 1]",
+      "Designed and delivered modular legal-domain workflows using C#, .NET 8 and Blazor.[cite: 1]",
     ],
   },
-  
   {
-    title: "Data Science and ML Trainee",
-    company_name: "NIIT",
-    icon: meta,
+    title: "Senior Technical Lead[cite: 1]",
+    company_name: "V Group INC[cite: 1]",
+    icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Apr 2019 - Jun 2019",
+    date: "Mar 2023 - Sep 2025[cite: 1]",
     points: [
-      "Worked on ecommerce data to predict yearly, querterly and monthly sales.",
-      "Completed Microsoft and NIIT certification on Python, DS and AI-ML",
+      "Led architecture and technical direction for 8 engineers; evolved modular services using Clean Architecture to improve maintainability.[cite: 1]",
+      "Reduced release cycles from 6 weeks to 3 weeks through architecture modernization and engineering-process improvements.[cite: 1]",
+      "Designed modular React, Redux and TypeScript interfaces, improving client-side performance and responsiveness by 35%.[cite: 1]",
+      "Established technical design reviews, automated testing standards and delivery governance; mentored senior and mid-level engineers.[cite: 1]",
+    ],
+  },
+  {
+    title: "Technical Lead[cite: 2]",
+    company_name: "Encora[cite: 2]",
+    icon: meta,
+    iconBg: "#383E56",
+    date: "Jul 2022 - Feb 2023[cite: 2]",
+    points: [
+      "Redesigned distributed scheduling and alerting architecture to support reliable processing of 1M+ automated alerts daily.[cite: 2]",
+      "Defined refactoring approaches for legacy services to address technical debt, service complexity, scalability and maintainability.[cite: 2]",
+      "Standardized CI/CD pipelines and cross-team QA practices, improving release-cycle efficiency by 25% and reducing production defects by 40%.[cite: 2]",
+    ],
+  },
+  {
+    title: "Senior Software Engineer[cite: 2]",
+    company_name: "LTIMindtree[cite: 2]",
+    icon: starbucks,
+    iconBg: "#E6DEDD",
+    date: "Aug 2019 - Jul 2022[cite: 2]",
+    points: [
+      "Designed and implemented .NET enterprise applications and serverless Azure Functions services for asynchronous data integrations.[cite: 2]",
+      "Designed automated Azure DevOps build and release pipelines, reducing deployment cycles from hours to under 15 minutes.[cite: 2]",
+      "Improved Angular application performance by 57% through Ahead-of-Time compilation, lazy loading and bundle optimization.[cite: 2]",
+    ],
+  },
+  {
+    title: "Senior Software Engineer[cite: 2]",
+    company_name: "CoreCard Software[cite: 2]",
+    icon: tesla,
+    iconBg: "#383E56",
+    date: "Feb 2018 - Aug 2019[cite: 2]",
+    points: [
+      "Optimized mission-critical financial processing modules, improving transaction execution speed by 40%.[cite: 2]",
+      "Built and maintained financial services supporting credit-program processing and application reliability.[cite: 2]",
     ],
   },
 ];
 
-const testimonials = [
-  {
-    testimonial:
-      "Rishav is highly skilled software engineer with plethora of technical knowledge. He is hard-working, punctual, and has excellent communication skills. He is a good team player, and very friendly person to work with. I wish him very best for his future endeavours.",
-    name: "Poojan Dalal",
-    designation: "Software Engineer",
-    company: "TCS",
-    image: "https://media.licdn.com/dms/image/C5603AQHdYhXXyCxtaw/profile-displayphoto-shrink_400_400/0/1612033774960?e=1689206400&v=beta&t=qagV7Mm9gzPzF-BuwpFm3Wko1BuGXjkd7oaUdNFFlMw",
-  },
-  {
-    testimonial:
-      "I have worked with Rishav in TCS Digital internship. We were in same team during our internship ie . BFSI EAST US DIGITAL TEAM. He is hardworking mate . Best wishes to Rishav for future.",
-    name: "Arsh Seth",
-    designation: "Systems Engineer",
-    company: "TCS",
-    image: "https://media.licdn.com/dms/image/D4D35AQHhcI5KAaOkeQ/profile-framedphoto-shrink_400_400/0/1651487743816?e=1684566000&v=beta&t=IZvobbeVLvAUnGW56DEjRWXzagMSRRLha50aCVu6SWI",
-  },
-  {
-    testimonial:
-      "Rishav is one of the best among all the people I have ever worked with. I worked with Rishav for 3 years. As I remember, RIshav was a very productive person, is hardworking, broad-minded and forward thinking individual. Intelligent, ambitious, energetic and proactive perfectionist.",
-    name: "Sudip Mitra",
-    designation: "Software Engineer",
-    company: "Persistent Systems",
-    image: "https://media.licdn.com/dms/image/D4D03AQH2blBYybUcBg/profile-displayphoto-shrink_400_400/0/1674761353846?e=1689206400&v=beta&t=LadA_5nrvaDox6_3AOg50rhUK92VRHVQS8cSI9YoDtQ",
-  },
-];
+// Cleared out testimonials as the provided resume emphasizes awards (e.g., Employee of the Year, LTIMindtree) rather than quotes[cite: 2].
+const testimonials = [];
 
 const projects = [
   {
-    name: "Amazon - Clone",
+    name: "UK Intellectual-Property Platform[cite: 1]",
     description:
-      "A Full-Stack Clone of the leading E-commerce website Amazon. 👉 Made the HomePage, Login and Checkout Page with smooth animations 👉 Integrated User Authentication with Firebase. I'm using: React-Context & Hooks, Material UI with custom CSS and Firebase.",
+      "Architected an event-driven messaging pipeline using C#, .NET 8 and RabbitMQ, reducing asynchronous data-processing delays by 40%. Designed an Ocelot API Gateway architecture serving 500K+ monthly requests.[cite: 1]",
     tags: [
       {
-        name: "react",
+        name: "C#",
         color: "blue-text-gradient",
       },
       {
-        name: "firebase",
+        name: ".NET-8",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "RabbitMQ",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/rishav-learnerml/Amazone-Clone",
+    source_code_link: "https://github.com/GhadiSachin", 
   },
   {
-    name: "India Vs World - Covid19",
+    name: "Enterprise Employment-Law Platform[cite: 1]",
     description:
-      "Used Prophet model by Facebook AI Team and graphically matched the data taken from Govt. Website with ML and Data Science Algorithms post one week. The resultant graph almost superimposed the actual graph with over 98% accuracy.",
+      "Evolved modular services using Clean Architecture. Reduced release cycles from 6 weeks to 3 weeks through architecture modernization and engineering-process improvements.[cite: 1]",
     tags: [
       {
-        name: "Python",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "Google-colab",
+        name: "TypeScript",
         color: "green-text-gradient",
       },
       {
-        name: "Machine-Learning",
+        name: "Clean-Architecture",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/rishav-learnerml/Corona-Research",
+    source_code_link: "https://github.com/GhadiSachin",
   },
   {
-    name: "Stark - Smart Assistant",
+    name: "ATI Scheduling Platform[cite: 2]",
     description:
-      `Made this futuristic voice assistant STARK with #chatgpt and #dalle which will make your life easier. Stark has the power of GPT4 which can roam around the internet and resolve your query and it is Compatible for web, android and ios. Made with Flutter, ChatGpt, Dall-e and Material3`,
+      "Redesigned distributed scheduling and alerting architecture to support reliable processing of 1M+ automated alerts daily. Standardized CI/CD pipelines and cross-team QA practices.[cite: 2]",
     tags: [
       {
-        name: "ChatGpt",
+        name: "Azure",
         color: "blue-text-gradient",
       },
       {
-        name: "Flutter",
+        name: "CI/CD",
         color: "green-text-gradient",
       },
       {
-        name: "Material3",
+        name: "Microservices",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://lnkd.in/dFKQyKqq",
+    source_code_link: "https://github.com/GhadiSachin", 
   },
 ];
 
