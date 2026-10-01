@@ -57,10 +57,14 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  cedge,
+  corecard,
+  encora,
+  ltimindtree,
+  s2infotech.
+  tcs,
+  vgroup,
+  wordline
   carrent,
   jobit,
   tripguide,
