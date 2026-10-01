@@ -72,7 +72,7 @@ import {
   uk,
 } from "../assets";
 
-import ati from '../assets/ati.png'
+// import ati from '../assets/ati.png'
 
 export const navLinks = [
   {
