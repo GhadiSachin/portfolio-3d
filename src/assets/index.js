@@ -61,7 +61,7 @@ export {
   corecard,
   encora,
   ltimindtree,
-  s2infotech.
+  s2infotech,
   tcs,
   vgroup,
   wordline
