@@ -21,10 +21,15 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import cedge from "./company/CEDGE.png";
+import corecard from "./company/corecard.png";
+import encora from "./company/encora.png";
+import ltimindtree from "./company/ltimindtree.png";
+import s2infotech from "./company/s2infotech.png";
+import tcs from "./company/tcs.png";
+import vgroup from "./company/vgroup.png";
+import wordline from "./company/wordline.png";
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
