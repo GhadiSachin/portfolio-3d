@@ -163,10 +163,18 @@ const Contact = () => {
           >
             {loading ? "Sending..." : "Send Message →"}
           </button>
+{/* Professional Portfolio Link */}
+<a
+  href="https://ghadisachin.github.io/"
+  rel="noopener noreferrer"
+  className="text-secondary hover:text-white transition-colors duration-300 font-medium"
+>
+  ← Professional Portfolio
+</a>
 
         </form>
       </motion.div>
-
+      
       {/* Earth */}
       <motion.div
         variants={slideIn("right", "tween", 0.2, 1)}
@@ -174,6 +182,7 @@ const Contact = () => {
       >
         <EarthCanvas />
       </motion.div>
+
 
     </div>
   );
