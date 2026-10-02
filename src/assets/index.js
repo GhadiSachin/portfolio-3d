@@ -120,6 +120,7 @@ export {
   microsoft,
   sqlserver,
   postgresql,
+  reactjs,
 
   // Companies
   cedge,
