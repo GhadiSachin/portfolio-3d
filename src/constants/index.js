@@ -54,6 +54,7 @@ import {
   microsoft,
   sqlserver,
   postgresql,
+  reactjs,
 
   // Companies
   cedge,

@@ -39,6 +39,7 @@ import openai from "./techstack/openai.svg";
 import microsoft from "./techstack/microsoft.svg";
 import sqlserver from "./techstack/sqlserver.svg";
 import postgresql from "./techstack/postgresql.svg";
+import reactjs from "./techstack/reactjs.png";
 import cedge from "./company/CEDGE.png";
 import corecard from "./company/corecard.png";
 import encora from "./company/encora.png";
