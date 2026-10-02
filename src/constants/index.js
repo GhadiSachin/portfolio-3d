@@ -111,16 +111,16 @@ const services = [
 
 const technologies = [
   {
-    name: ".NET 8",
-    icon: backend, 
+    name: ".NET Core",
+    icon: dotnetcore, 
   },
   {
     name: "C#",
-    icon: backend,
+    icon: csharp,
   },
   {
     name: "Microsoft Azure",
-    icon: docker,
+    icon: azure,
   },
   {
     name: "JavaScript",
@@ -144,15 +144,39 @@ const technologies = [
   },
   {
     name: "SQL Server",
-    icon: backend,
+    icon: sqlserver,
   },
   {
     name: "RabbitMQ",
-    icon: backend,
+    icon: rabbitmq,
   },
   {
     name: "Blazor",
-    icon: web,
+    icon: blazor,
+  },
+  {
+    name: "AWS",
+    icon: aws,
+  },
+  {
+    name: "OpenAI",
+    icon: openai,
+  },
+  {
+    name: "PostgreSQL",
+    icon: postgresql,
+  },
+  {
+    name: "Python",
+    icon: python,
+  },
+  {
+    name: "docker",
+    icon: docker,
+  },
+  {
+    name: "Kubernetes",
+    icon: kubernetes,
   },
 ];
 
